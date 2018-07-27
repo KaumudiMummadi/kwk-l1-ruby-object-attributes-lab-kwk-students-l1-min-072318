@@ -1,8 +1,7 @@
 # dog.rb
 class Dog 
-  def initialize (name, name1)
+  def initialize (name)
     @name= name 
-    @name1= name1
   end 
   
   def name = (name)
@@ -14,4 +13,3 @@ class Dog
   end 
   
 mia = Dog.new 
-laila = Dog.new 
