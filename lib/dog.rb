@@ -15,3 +15,4 @@ class Dog
 end 
 
 fido= Dog.new ("fido")
+puts "My dog's name is #{@name}"
