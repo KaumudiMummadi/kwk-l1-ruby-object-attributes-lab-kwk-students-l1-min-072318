@@ -14,3 +14,4 @@ class Dog
   end 
   
 mia = Dog.new 
+laila = Dog.new 
