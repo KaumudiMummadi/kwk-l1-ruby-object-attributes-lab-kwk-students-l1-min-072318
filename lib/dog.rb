@@ -13,4 +13,4 @@ class Dog
     @name 
   end 
 end 
-mia = Dog.new("mia")
+fido = Dog.new("fido")
